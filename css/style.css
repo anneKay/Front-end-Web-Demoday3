@@ -1,0 +1,31 @@
+html*{
+  font-size: 14px;
+  font-family: verdana;
+  background:green;
+  border:1px
+
+}
+
+myDiv{
+  background-color: green;
+  height:100px;
+  width: 100px;
+}
+
+table,th,td {
+ border:0px solid black;
+ vertical-align: top;
+}
+body{
+  padding: 50px;
+  margin: 0;
+  font:14px
+  color: #555;
+  font-weight: 300;
+ background: url
+}
+a{
+  text-decoration: none;
+  color: red;
+  font-family: verdana;
+}
